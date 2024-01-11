@@ -10,4 +10,4 @@ Tap on a plot to zoom in.
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 **SVD** |![](plots/OOSResults_SVD_SSN.png)  |  ![](plots/OOSResults_SVD_TNP.png) | ![](plots/OOSResults_SVD_MC.png)
 **KM** |![](plots/OOSResults_KM_SSN.png)  |  ![](plots/OOSResults_KM_TNP.png) |  ![](plots/OOSResults_KM_MC.png)
-**SC** |![](plots/OOSResults_KM_SSN.png)  |  ![](plots/OOSResults_SC_TNP.png) |  ![](plots/OOSResults_KM_MC.png)
+**SC** | Plot unavailable |  ![](plots/OOSResults_SC_TNP.png) |  Plot unavailable
